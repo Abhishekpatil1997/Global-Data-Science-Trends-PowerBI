@@ -1,5 +1,8 @@
 # Global Data Science Trends: Analysis of Professional Survey
 This project involved analyzing survey data of data professionals to understand trends in salaries, education levels, programming languages, job roles, and other factors. The raw data was cleaned and modeled in Power BI to create an interactive dashboard for visualization.
+
+![dashboard](./Images/dashboard.png)
+
 ## Data
 The dataset contains survey responses from over 3000 data professionals worldwide. It includes information on:
 -	Country of residence
